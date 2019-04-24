@@ -2,7 +2,7 @@
 layout:     post
 title:      vue单页面开发的动态修改meta元标签的关键词和描述，页面title名
 subtitle:   利用路由守卫控制页面的跳转,方便搜索引擎的友好，利于SEO
-date:       2019年4月4日
+date:       2019年4月24日
 author:     Lisa
 header-img: img/post-bg-debug.png
 catalog: true
