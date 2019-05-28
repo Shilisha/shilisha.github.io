@@ -15,7 +15,7 @@ tags:
 
 
 
-## meta标签和title
+## meta标签和titledadadaddadada
 
 vue这个框架，是个单页面开发，在很多时候，并不利于SEO，我这边刚好在开发一个公司的官网，需求是需要每个页面要有对应的meta标签的description&keywords以及title的名字
 
